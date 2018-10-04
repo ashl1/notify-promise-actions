@@ -1,0 +1,23 @@
+{
+  "name": "notify-promise-actions",
+  "version": "1.0.0",
+  "description": "This is library to proceed a list of promise FSA-complained actions (from redux-promise-actions) from first to last as one consequentally. A common use case for this library is notification of the status of a bunch of promise actions in general.",
+  "keywords": [
+    "redux",
+    "flux standard action",
+    "fsa",
+    "promise action",
+    "notification"
+  ],
+  "dependencies": {
+    "redux-promise-actions": "^0.5.2"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ashl1/notify-promise-actions.git",
+  "author": "Alexey Shildyakov <ashl1future@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/ashl1/notify-promise-actions.git/issues"
+  }
+}
